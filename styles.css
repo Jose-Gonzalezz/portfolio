@@ -1,0 +1,65 @@
+.row{   
+
+    background-color:#E6FC22;
+    color:white;
+    font-size:20px;
+}
+.headshot{
+    width:25%;
+   
+}
+.mid{
+    background-color:white;
+    color:black;
+    align-items:center;
+    font-size:35px;
+    margin-top:5px;
+    margin-bottom:5px;
+    text-align: center;
+    font-family: 'Courgette', cursive;
+}
+.contact p{
+   text-align: center;
+   color:black;
+}
+
+
+.aboutme{
+    border:1px solid black; 
+    color: black;
+    text-align: center;
+    
+}
+.footer {
+    display: flex;
+    justify-content: space-around;
+    color:black;
+}
+.vineimg{
+    position:absolute;
+    top:125px;
+    left:100px;
+    width:350px;
+    
+}
+.leafe{
+    position:absolute;
+    top:125;
+    right:100;
+    width:350;
+}
+
+.name{
+    display: flex;
+    justify-content:center;
+}
+
+img{
+    width: 300px;
+    height: 200px;
+}
+
+.me{
+    height: 300px;
+    width: 200px;
+}
